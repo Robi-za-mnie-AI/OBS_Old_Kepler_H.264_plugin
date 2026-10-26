@@ -1,6 +1,6 @@
 # nvenc old kepler
 
-Powered by https://github.com/RanAwaySuccessfully/nvenckepler and enhanced via AI, featuring older graphics built on the Kepler architecture
+Based on https://github.com/RanAwaySuccessfully/nvenckepler and modified using AI to provide support for newer versions of OBS on my (no longer supported) Quadro K2100M—and, theoretically, other older cards as well.
 
 Windows-only OBS Studio plugin for H.264 NVENC using NVIDIA NVENC API 8.1, intended for legacy NVIDIA Kepler GPUs and older drivers.
 
