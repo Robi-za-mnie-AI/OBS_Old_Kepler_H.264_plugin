@@ -15,15 +15,15 @@ Tested on Quadro K2100M, drivers 411.63.
 ## Theoretical compatibility list
 Theoretically, the plugin should also support:
 
-GTX 650  
-GTX 650 Ti, GTX 650 Ti Boost  
-GTX 660, GTX 660 Ti  
-GTX 670, GTX 680  
-GTX 690  
-GTX 760, GTX 760 Ti  
-GTX 770  
-GTX 780, GTX 780 Ti  
-GTX Titan, GTX Titan Black, GTX Titan Z  
+- GTX 650  
+- GTX 650 Ti, GTX 650 Ti Boost  
+- GTX 660, GTX 660 Ti  
+- GTX 670, GTX 680  
+- GTX 690  
+- GTX 760, GTX 760 Ti  
+- GTX 770  
+- GTX 780, GTX 780 Ti  
+- GTX Titan, GTX Titan Black, GTX Titan Z  
   
 GTX 650M, GTX 660M  
 GTX 745M, GTX 750M, GTX 755M, GTX 760M, GTX 765M, GTX 770M, GTX 780M  
