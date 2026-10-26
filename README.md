@@ -7,6 +7,7 @@ Install to "C:\ProgramData\obs-studio\plugins" or to the ".\plugins" folder in t
 
 ## Test info
 Tested on Quadro K2100M.
+
 1920x1080, 30 FPS, CBR, 10000Kbps, Preset P6, Profil high - ~40% GPU load
 
 ## Theoretical compatibility list
