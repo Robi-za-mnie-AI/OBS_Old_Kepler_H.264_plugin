@@ -23,13 +23,13 @@ Theoretically, the plugin should also support:
 * GTX 770
 * GTX 780, GTX 780 Ti
 * GTX Titan, GTX Titan Black, GTX Titan Z
-
-
+</br>
+</br>
 * GTX 650M, GTX 660M
 * GTX 745M, GTX 750M, GTX 755M, GTX 760M, GTX 765M, GTX 770M, GTX 780M
 * GTX 860M, GTX 870M, GTX 880M
-
-
+</br>
+</br>
 * Quadro - 410, K420, K600
 * Quadro - K2000, K2000D, K4000
 * Quadro - K4200, K5000, K5200, K6000
@@ -37,8 +37,8 @@ Theoretically, the plugin should also support:
 * Quadro Mobile	- K500M, K510M, K610M
 * Quadro Mobile -	K1000M, K1100M, K2000M, K2100M
 * Quadro Mobile - K3000M, K3100M, K4000M, K4100M, K5000M, K5100M
-
-
+</br>
+</br>
 With the caveat that it might not work on every card model (as there were different cores)
 
 * GeForce GT 640
