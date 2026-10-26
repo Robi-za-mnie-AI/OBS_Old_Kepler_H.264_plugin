@@ -3,7 +3,12 @@
 Windows-only OBS Studio plugin for H.264 NVENC using NVIDIA NVENC API 8.1, intended for legacy NVIDIA Kepler GPUs and older drivers.
 Based on https://github.com/RanAwaySuccessfully/nvenckepler and modified using AI.
 
-Install to "C:\ProgramData\obs-studio\plugins" or to the ".\plugins" folder in the portable version.
+Install to
+...
+C:\ProgramData\obs-studio\plugins
+or
+.\plugins (folder in the portable version)
+...
 
 ## Test info
 Tested on Quadro K2100M.
